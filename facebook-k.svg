@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BeBold" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16.5 16.5">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #434142;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="8.25" cy="8.25" r="8"/>
+  <path id="Facebook" class="st0" d="M9.35,5.98c0-.61.06-.94.99-.94h1.24v-2.34h-1.98c-2.37,0-3.21,1.14-3.21,3.05v1.41h-1.48v2.34h1.48v7.8h2.96v-7.8h1.98l.26-2.34h-2.24v-1.17h0Z"/>
+</svg>
