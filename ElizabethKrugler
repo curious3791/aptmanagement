@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>HTML Email Signature</title>
+	<style type="text/css">
+		body {
+			margin: 0;
+		}
+		table {
+			border-spacing: 0;
+		}
+		td {
+			padding: 0;
+		}
+		img {
+			border: 0;
+			align-items: center;
+		}
+		.wrapper { 
+			width: 100%;
+			table-layout: fixed;
+		}
+		.main {
+			width: 100%;
+			background-color: #fff;
+			font-family: 'Roboto', Helvetica, Arial, sans-serif;
+			color: #1E1A1B;
+			text-align: left;
+		}
+		@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+	</style>
+</head>
+<body>
+
+
+		<table bgcolor="#fff"><tr><td style="border: 1px solid #282828; padding: 5px">
+		<table class="main" width="100%">
+
+
+<!-- NAME -->
+    <tr>
+    <td style="font-size: 19px; color: #1B416D; line-height: 20px; font-weight: 700; padding: 4px 0 0 9px; text-align: left; width: 290px;">Elizabeth Krugler
+    </td>
+
+  <!-- LOGOS -->  
+    <td rowspan="8"  style="background-color: #CFDAE9; width: 220px;">
+<table><tr><td width="220px">
+	<a href="https://www.radnorpreserve.com"><img src="https://raw.githubusercontent.com/curious3791/aptmanagement/refs/heads/main/radpreslogo2.png" alt="Radnor Preserve" width="230" style="display: block; outline: none; border: 0;></a>
+	<td style="padding: 0 0 0px 00px;>
+	<a href="https://www.aptmanagement.com"><img src="https://raw.githubusercontent.com/curious3791/aptmanagement/refs/heads/main/aptmngsimplelogo.png" alt="Radnor Preserve" width="220px" style="float: center; border: 0;"></a>
+	</td></tr></table>
+</td>
+</tr>
+
+
+<!-- TITLE -->
+<tr>
+<td style="font-size: 16px; line-height: 16px; font-weight: 400; padding: 8px 0 0 9.5px; text-align: left;">Leasing Manager,
+</tr>
+<tr>
+<td style="font-size: 16px; line-height: 5px; font-weight: 400; padding: 8px 0 0 9.5px; text-align: left;">Upper Delaware & Chester Counties</i> 
+</tr>
+<!-- SPACE UNDER TITLE -->
+<tr>
+<td height="30px">
+</td>
+</tr>
+
+<!-- EMAIL -->
+
+<tr><td style="font-size: 14px; line-height: 17px; font-weight: 400; padding: 0px 0 0 10px; text-align: left;">
+<a href="mailto:elizabeth@aptmanagement.com">elizabeth@aptmanagement.com</a>
+</td>
+</tr>
+
+<!-- PHONE -->
+
+<tr><td style="font-size: 14px; line-height: 16px; font-weight: 400; padding: 2px 0 0 10px; text-align: left;">610.555.1212
+</td>
+</tr>
+
+<!-- WEBSITE -->
+
+<tr><td style="font-size: 14px; line-height: 16px; font-weight: 400; padding: 0px 0 0 10px; text-align: left; "><a href="https://www.aptmanagement.com">aptmanagement.com</a>
+</td>
+</tr>
+
+<!-- LOGO -->
+
+<!-- SOCIAL MEDIA -->
+<tr>
+<td style="font-size: 14px; line-height: 28px; font-weight: 400; padding: 5px 0 0 10px; text-align: left;">
+<a href="https://www.facebook.com/aptmanagement/>"><img src="https://raw.githubusercontent.com/curious3791/aptmanagement/refs/heads/main/facebook-k.png" style="width: 16px; "></a>
+<a href="https://www.instagram.com/aptmanagement_pa/>"><img src="https://raw.githubusercontent.com/curious3791/aptmanagement/refs/heads/main/instagram-k.png" style="width: 16px; "></a>
+
+</td>
+</tr>
+</tbody></table> 
+
+<!-- End Main Class -->
+</td></tr></table>
+<!-- End Wrapper -->
+
+</body>
+</html>
